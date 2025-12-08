@@ -1,7 +1,5 @@
 package com.hanci.easy;
 
-import java.util.Arrays;
-
 public class ReversePrefixOfWord {
 
     public String reversePrefix(String word, char ch) {
